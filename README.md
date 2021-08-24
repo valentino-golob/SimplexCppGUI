@@ -1,4 +1,5 @@
 [![](https://img.shields.io/badge/documentation-Latex-blue?style=flat)](review_golob.pdf)
+[![Generic badge](https://img.shields.io/badge/code-C++-blue.svg)](/Simplex)
 # SimplexCppGUI
 Short intro into the simplex algorithm for linear optimization problems (see review_golob.pdf). graphical user interface (GUI) implementation, with visualisation of the simplex steps for 2D problems. I used Qt to create the GUI. The code is written in C++.
 <img src="images/review_golob-15.svg">
